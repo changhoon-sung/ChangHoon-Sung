@@ -1,4 +1,4 @@
-### Hello there.
+### Hello there 👋
 - I'm Changhoon, MS student in CS @ SDSU
 - I’m currently interested in cross-layer system optimization.
 <!--
