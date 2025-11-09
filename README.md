@@ -1,6 +1,6 @@
-### Hello 👋
-- 🧑‍💻 I'm Changhoon, MS student in CS @ SDSU
-- ❤️ I’m currently interested in storage & memory system.
+### Hello there.
+- I'm Changhoon, MS student in CS @ SDSU
+- I’m currently interested in cross-layer system optimization.
 <!--
 **ChangHoon-Sung/ChangHoon-Sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
