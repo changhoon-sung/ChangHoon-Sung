@@ -1,5 +1,5 @@
 ### Hello there 👋
-- I'm Changhoon, PhD student in CS @ UCI-SDSU Joint
+- I'm Changhoon, PhD student in Computational Science @ UCI-SDSU Joint Program
 - I’m currently interested in cross-layer system optimization.
 <!--
 **ChangHoon-Sung/ChangHoon-Sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
